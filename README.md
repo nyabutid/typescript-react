@@ -24,5 +24,9 @@ npm install
 ####3.  Install typings compile and start server
 
 ```bash
-npm start
+npm test
 ```
+
+####3.  Open Browser
+
+<a href="http://localhost:8080">http://localhost:8080</a>

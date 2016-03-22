@@ -8,6 +8,10 @@ React and TypeScript Todo MVC App
 
 
 ### Installation
+A standalone TypeScript compiler should be available on NPM.
+```sh
+npm install -g typescript
+```
 ####1. Clone this project or Download that ZIP file
 
 ```sh

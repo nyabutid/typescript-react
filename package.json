@@ -1,0 +1,22 @@
+{
+  "name": "typescript-react-todo",
+  "version": "1.0.0",
+  "description": "An example application in TypeScript with React for a Todo MVC App",
+  "main": "index.html",
+  "scripts": {
+    "test": "typings install && tsc && http-server"
+  },
+  "author": "Dickens Nyabuti <dickens.nyabuti@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "director": "^1.2.8",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "todomvc-app-css": "^2.0.4",
+    "todomvc-common": "^1.0.2"
+  }
+}

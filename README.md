@@ -7,7 +7,6 @@ React and TypeScript Todo MVC App
 **Note** that this seed project requires node v4.x.x or higher and npm 2.14.7.
 
 
-In order to start the seed use:
 ### Installation
 ####1. Clone this project or Download that ZIP file
 

@@ -19,8 +19,10 @@ $ git clone https://github.com/nyabutid/typescript-react.git
 
 ```bash
 npm install
+```
 
 ####3.  Install typings compile and start server
 
 ```bash
 npm start
+```
